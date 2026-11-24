@@ -1,6 +1,6 @@
 # Aggy
 
-I write the guides I wish existed, after verifying every line of them. Security hardening for people who run their own servers, local-first AI tooling, and the occasional browser game.
+I write the technical guides I wish existed. Security hardening for people who manage their own servers, and educational tools.
 
 > The rule for everything below: if I haven't spent a ridiculous amount of time thinking about a problem and finding a solution or workaround and an easy way to explain it plainly, with a command you can run to check it, it doesn't ship.
 
